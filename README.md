@@ -1,4 +1,4 @@
-These are some very basic Javascript exercises.
+### These are some very basic Javascript exercises.
 
 Some of them such as p100.js are Node.js scripts. Therefore, in your command line run
 ````
